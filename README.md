@@ -15,10 +15,6 @@ engine.py: Train the model and store the key statistics
 
 main.py: leave as is 
 
-
-
-One can see the performances, experiments and their visualizations here.  
-
 base_line.ipynb
 
 final custom model.ipynb
